@@ -1,5 +1,8 @@
 .cards.bg-yellow {
-  background-color: yellow;
+  > ul > li {
+    background-color: wheat;
+    box-shadow: 2px 2px 2px 1px rgb(0 0 0 / 20%);
+  }
 }
 .cards > ul {
   list-style: none;
