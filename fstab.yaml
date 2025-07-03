@@ -1,2 +1,4 @@
 mountpoints:
-  /: https://drive.google.com/drive/u/0/folders/1DuArGt1uHYNrOmXLUW17a5RYrg0HaO7h
+  /:
+    url: https://content.da.live/edshol/test-hol/
+    type: markup
